@@ -3,7 +3,7 @@ package config;
 public class BotConfig
 {
     private static String BOT_TOKEN = "";
-    private static String BOT_USERNAME = "Labnikk_bot";
+    private static String BOT_USERNAME = "";
 
     public static String getBOT_TOKEN() {
         return BOT_TOKEN;
